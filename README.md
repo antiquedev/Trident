@@ -4,27 +4,30 @@ Trident Root Access App for iOS 9.1-9.3.4, Only available for 32bit devices
 About:
 Trident is an incomplete iOS 9.x jailbreak with the possibility of becoming a fully fledged iOS 9.x jailbreak
 
-> Supported Devices
-iPhone41_iOS930,
-iPhone41_iOS931,
-iPhone41_iOS932,
-iPhone41_iOS933,
-iPhone41_iOS934,
-iPhone52_iOS921,
-iPhone52_iOS931,
-iPhone52_iOS932,
-iPhone53_iOS91,
-iPhone53_iOS932,
-iPhone53_iOS933,
-iPad21_iOS932,
-iPad22_iOS932,
-iPad23_iOS932,
-iPad24_iOS932,
-iPad23_iOS933,
+- Supported Devices<br >
+iPhone41_iOS930,<br >
+iPhone41_iOS931,<br >
+iPhone41_iOS932,<br >
+iPhone41_iOS933,<br >
+iPhone41_iOS934,<br >
+iPhone52_iOS921,<br >
+iPhone52_iOS931,<br >
+iPhone52_iOS932,<br >
+iPhone53_iOS91,<br >
+iPhone53_iOS932,<br >
+iPhone53_iOS933,<br >
+iPad21_iOS932,<br >
+iPad22_iOS932,<br >
+iPad23_iOS932,<br >
+iPad24_iOS932,<br >
+iPad23_iOS933,<br >
 iPad31_iOS934
 
-!!!DISCLAIMER!!!
+--I don't know what this will do on unsupported devices. Please dont use this on any device that isn't listed above--
 
-This tool/app is not meant for people who don't know what they are doing nor is it meant to be used as a full jailbreak,
+<br >
+!!!<b>DISCLAIMER</b>!!!
+
+This tool/app is <b>not</b> meant for people who don't know what they are doing nor is it meant to be used as a full jailbreak,
 the app only gives root acces allowing for users to 'SSH' into their device and browse files.
-I do not take any responsibility if you use this app on your device.
+<br >I <b>do not</b> take any responsibility if you use this app on your device.
