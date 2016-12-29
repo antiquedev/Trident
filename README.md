@@ -11,9 +11,9 @@ Trident is an incomplete iOS 9.x jailbreak with the possibility of becoming a fu
 - iPhone41_iOS933,<br >
 - iPhone41_iOS934,<br >
 - iPhone52_iOS921,<br >
-- iPhone52_iOS931,<br >
 - iPhone52_iOS932,<br >
 - iPhone53_iOS91,<br >
+- iPhone53_iOS931,<br>
 - iPhone53_iOS932,<br >
 - iPhone53_iOS933,<br >
 - iPad21_iOS932,<br >
