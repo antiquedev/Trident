@@ -1,8 +1,8 @@
 # Trident
-Trident Root Access App for iOS 9.1-9.3.4, Only available for 32bit devices
+Trident Root Access App for iOS 9.3-9.3.4, Only available for 32bit devices
 
 About:
-Trident is an incomplete iOS 9.x jailbreak with the possibility of becoming a fully fledged iOS 9.x jailbreak
+Trident is an incomplete iOS 9.3 jailbreak with the possibility of becoming a fully fledged jailbreak.
 
 <b>Supported Devices</b><br >
 - iPhone41_iOS930,<br >
